@@ -1,6 +1,6 @@
-# PC10258 Admin
+# Modern Admin Dashboard Template
 
-A powerful, modern, and high-performance Admin Dashboard for PC10258 operations. Built with a focus on clean aesthetics, synchronization, and premium user experience.
+A powerful, modern, and high-performance Admin Dashboard template designed for scalability and efficiency. Built with a focus on clean aesthetics, cross-page synchronization, and a premium user experience.
 
 🔗 **[Live Demo](https://nguywnben.github.io/pc10258-admin/)**
 
@@ -37,4 +37,4 @@ A powerful, modern, and high-performance Admin Dashboard for PC10258 operations.
 2. Open `dashboard.html` in your favorite browser.
 
 ---
-© 2026 PC10258 Admin | Professional Dashboard Solution.
+© 2026 Modern Admin | Professional Dashboard Solution.
