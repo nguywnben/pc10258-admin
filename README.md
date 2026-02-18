@@ -7,7 +7,7 @@ A powerful, modern, and high-performance Admin Dashboard template designed for s
 ## 🚀 Key Features
 
 - **Consistently Synchronized Layout**: Unified Header, Sidebar, and Footer across all administrative pages.
-- **Revenue Analytics**: Interactive and beautiful charts powered by Chart.js with Vietnamese localization.
+- **Revenue Analytics**: Interactive and beautiful charts powered by Chart.js with customizable tooltips.
 - **Standardized Typography**: Optimized readability using `Inter` font and a systematic 14px/16px text hierarchy.
 - **Notification System**: Integrated notification dropdown with detailed activity alerts.
 - **Responsive Design**: Fully optimized for professional desktop management with mobile-ready navigation.
@@ -15,7 +15,7 @@ A powerful, modern, and high-performance Admin Dashboard template designed for s
 
 ## 📄 Core Pages
 
-- `dashboard.html`: Main overview with key performance metrics and revenue analytics charts.
+- `index.html`: Main overview with key performance metrics and revenue analytics charts.
 - `table-template.html`: Professional data management layout for orders, products, and users.
 - `form-template.html`: Standardized input templates for adding and editing system data.
 - `settings.html`: Centralized system configuration and administrator profile management.
@@ -34,7 +34,7 @@ A powerful, modern, and high-performance Admin Dashboard template designed for s
    ```bash
    git clone https://github.com/nguywnben/pc10258-admin.git
    ```
-2. Open `dashboard.html` in your favorite browser.
+2. Open `index.html` in your favorite browser.
 
 ---
 © 2026 Modern Admin | Professional Dashboard Solution.
